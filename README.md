@@ -1,2 +1,2 @@
-# codeforces-solutions
+# Codeforces Solutions
 Codeforces Solutions in C++.
