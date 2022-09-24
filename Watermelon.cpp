@@ -1,4 +1,5 @@
 // code by savir singh
+// verdict: accepted
 
 #include <bits/stdc++.h>
 using namespace std;
