@@ -26,7 +26,7 @@ bit32 main()
     while (n--) {
         char a, b, c;
         cin >> a >> b >> c;
-        if (a=='+' || b=='+') {
+        if (b=='+') {
             x++;
         }
         else {
